@@ -1,0 +1,1 @@
+tx = input ("Digite 5 numeros para o x: ")

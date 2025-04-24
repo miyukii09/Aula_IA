@@ -1,0 +1,501 @@
+Produto;Quantidade;PreçoUnitario
+Webcam;14;1662.87
+Notebook;1;862.14
+Teclado;5;2402.75
+Notebook;16;3535.63
+Headset;1;438.5
+Teclado;14;1554.52
+Mouse;17;1862.67
+HD Externo;4;3315.97
+Notebook;9;962.25
+Notebook;20;2621.63
+Pen Drive;19;740.02
+Headset;14;1301.95
+Impressora;10;3411.3
+Cabo HDMI;20;1045.65
+Headset;17;2275.93
+Teclado;18;621.92
+Monitor;16;3710.06
+Teclado;17;1941.18
+Pen Drive;9;1616.18
+Mouse;10;243.51
+Webcam;9;59.67
+Pen Drive;10;3949.05
+HD Externo;16;1685.06
+Teclado;14;1987.47
+Notebook;16;686.02
+Monitor;6;1594.0
+Notebook;6;879.22
+Impressora;10;408.29
+Headset;10;3324.45
+Mouse;6;510.42
+Monitor;14;3899.18
+Mouse;15;3118.2
+Pen Drive;4;3652.77
+Notebook;7;2059.3
+Notebook;4;3552.89
+Pen Drive;19;3921.76
+Mouse;4;3079.36
+Notebook;4;141.25
+Webcam;19;2833.35
+Headset;7;1513.34
+Notebook;14;2436.46
+Mouse;9;3354.89
+Webcam;18;654.02
+HD Externo;5;1372.47
+Cabo HDMI;16;2938.13
+Teclado;5;3368.48
+Notebook;3;2006.59
+Notebook;12;1260.6
+Monitor;16;3838.32
+Teclado;12;810.36
+Pen Drive;16;1523.14
+Impressora;9;974.87
+Pen Drive;3;2716.6
+Headset;8;2328.51
+Webcam;18;3711.93
+Impressora;12;3257.31
+Cabo HDMI;12;332.49
+Notebook;20;1482.83
+Teclado;18;2809.85
+Headset;6;2642.91
+HD Externo;18;1107.18
+Mouse;16;612.7
+Impressora;5;3950.89
+Webcam;8;2138.15
+HD Externo;18;1066.68
+Monitor;11;2358.34
+Cabo HDMI;14;161.49
+Pen Drive;13;3936.41
+Teclado;20;1250.83
+Teclado;13;623.78
+Mouse;7;906.52
+Mouse;20;3452.62
+Pen Drive;16;517.36
+Impressora;17;298.89
+Notebook;13;2406.06
+Mouse;2;696.65
+HD Externo;2;2783.97
+HD Externo;4;3309.28
+Notebook;3;1980.95
+Monitor;10;3732.62
+Webcam;15;3489.24
+Headset;10;2462.13
+Notebook;14;3402.02
+Teclado;5;3809.88
+Impressora;4;3700.5
+Pen Drive;20;3492.22
+Teclado;15;3906.75
+Webcam;5;3437.78
+Notebook;2;658.74
+Mouse;13;1879.2
+Teclado;4;54.57
+Headset;18;3133.14
+Headset;1;2498.53
+Teclado;9;3455.25
+Pen Drive;10;2444.46
+Webcam;2;2263.51
+Cabo HDMI;9;1014.44
+Notebook;19;3976.24
+Mouse;17;1758.75
+Headset;8;1451.11
+Monitor;6;2860.64
+HD Externo;6;303.99
+Pen Drive;3;1931.97
+Headset;12;3170.23
+Pen Drive;8;2329.23
+Teclado;11;615.61
+HD Externo;17;1201.3
+Notebook;8;934.58
+Monitor;2;324.29
+Cabo HDMI;2;3430.61
+Notebook;3;745.69
+Pen Drive;18;2187.81
+Teclado;1;582.17
+Headset;1;432.16
+Teclado;13;1439.75
+Cabo HDMI;6;3463.9
+Mouse;10;2405.91
+Impressora;3;1085.0
+Cabo HDMI;19;2189.65
+Notebook;19;2576.66
+Mouse;1;2578.74
+Teclado;18;413.76
+Webcam;19;1691.75
+Impressora;2;3885.2
+Cabo HDMI;16;1818.51
+Headset;16;3426.28
+Mouse;18;1157.02
+Webcam;17;3996.22
+Impressora;8;3120.48
+Cabo HDMI;9;2267.31
+Notebook;8;1275.09
+Headset;15;218.65
+Pen Drive;17;399.37
+Teclado;5;927.56
+Monitor;6;86.0
+Headset;13;293.45
+Cabo HDMI;9;1346.16
+Teclado;8;1939.32
+Webcam;14;3823.55
+Webcam;13;640.46
+Cabo HDMI;4;2359.61
+Headset;13;3527.28
+Webcam;6;1189.5
+Cabo HDMI;18;2868.99
+Headset;16;1431.31
+Pen Drive;16;1540.93
+Cabo HDMI;2;210.04
+Headset;10;1523.15
+Teclado;2;1191.55
+Monitor;18;686.44
+Notebook;13;1398.17
+Impressora;6;3099.32
+Teclado;4;3203.83
+Pen Drive;9;132.6
+Headset;4;3477.27
+HD Externo;3;3080.18
+Webcam;13;2980.98
+Notebook;9;423.96
+Webcam;11;883.51
+Cabo HDMI;16;1393.26
+Teclado;3;1807.88
+Cabo HDMI;4;2165.16
+Webcam;10;3296.15
+Cabo HDMI;12;1098.76
+Notebook;8;3940.17
+Impressora;6;858.04
+Notebook;17;287.19
+Webcam;15;154.32
+Mouse;16;1037.81
+HD Externo;15;460.38
+Monitor;12;3340.87
+Notebook;15;17.76
+Cabo HDMI;7;2686.68
+Notebook;8;58.99
+Headset;9;659.82
+Webcam;11;1392.98
+Notebook;19;2100.28
+Cabo HDMI;18;1357.52
+Mouse;13;1639.33
+Impressora;20;1252.85
+Headset;4;2589.82
+Monitor;5;2084.3
+HD Externo;6;882.23
+Monitor;2;989.23
+Pen Drive;5;3519.8
+HD Externo;13;359.2
+Pen Drive;10;3094.88
+Pen Drive;20;3594.83
+Cabo HDMI;1;3034.64
+Teclado;15;3865.84
+Webcam;19;1964.39
+Monitor;10;3048.46
+Pen Drive;6;3557.15
+Headset;4;3328.04
+Teclado;19;995.1
+Monitor;16;1845.95
+Mouse;9;3451.57
+Monitor;10;165.09
+Mouse;8;3220.69
+Monitor;17;2738.58
+HD Externo;19;2879.76
+HD Externo;1;212.5
+Cabo HDMI;8;1337.31
+Mouse;8;377.94
+HD Externo;2;1819.51
+Webcam;6;2600.87
+Teclado;7;1762.72
+Cabo HDMI;20;334.25
+Notebook;17;2881.73
+Mouse;14;926.5
+Mouse;10;2563.05
+Mouse;5;839.78
+Impressora;16;2975.07
+HD Externo;13;85.45
+Mouse;20;1356.44
+Monitor;10;290.57
+Mouse;8;2523.85
+Headset;16;1169.09
+Notebook;2;2653.44
+Teclado;2;2449.71
+Teclado;9;1824.16
+Headset;16;61.33
+Headset;6;1315.64
+Pen Drive;8;691.1
+Mouse;14;2728.65
+Mouse;1;1913.91
+HD Externo;11;1116.19
+Monitor;4;941.6
+Headset;14;3604.57
+Webcam;10;1103.47
+Cabo HDMI;8;837.72
+Teclado;11;1851.12
+Mouse;8;3043.23
+Monitor;10;346.91
+Headset;15;726.0
+Mouse;13;3133.52
+Webcam;13;797.36
+Headset;10;2793.39
+Impressora;19;1232.24
+Pen Drive;17;661.7
+Monitor;2;199.22
+Monitor;15;2164.67
+Pen Drive;5;1297.27
+Teclado;12;1125.96
+Impressora;15;546.26
+Impressora;9;197.12
+Headset;10;2511.26
+Cabo HDMI;14;479.24
+Mouse;16;2376.49
+Mouse;8;673.69
+Teclado;20;1323.18
+Mouse;2;3956.74
+Webcam;3;2815.39
+Headset;16;2487.13
+Monitor;12;2750.97
+Impressora;9;774.53
+Pen Drive;2;2704.7
+Pen Drive;10;2094.55
+Webcam;20;2668.96
+Pen Drive;4;858.27
+HD Externo;5;1213.67
+Webcam;10;3194.26
+Headset;10;2261.83
+Headset;7;2854.59
+Notebook;16;3006.44
+Teclado;10;19.24
+Notebook;6;2401.3
+Impressora;5;189.45
+Webcam;16;2932.59
+Impressora;5;1715.72
+Webcam;13;1153.42
+Impressora;9;266.53
+Webcam;14;2275.32
+Headset;7;2765.32
+Headset;6;3332.98
+Webcam;6;953.62
+Cabo HDMI;5;2420.34
+Notebook;17;3008.91
+Webcam;18;1888.18
+Mouse;16;1238.47
+HD Externo;14;2115.08
+Monitor;14;532.42
+Headset;20;662.87
+Webcam;12;3923.17
+Impressora;3;2321.38
+Pen Drive;17;785.13
+Webcam;4;1830.41
+Webcam;18;3788.69
+Notebook;6;2607.56
+Cabo HDMI;1;3725.03
+Mouse;2;1315.19
+Teclado;7;1588.26
+Notebook;19;3314.63
+Mouse;12;2841.69
+Webcam;13;3449.34
+Notebook;19;2987.24
+Mouse;5;2299.25
+Headset;17;105.32
+Cabo HDMI;4;2405.81
+Pen Drive;18;1797.71
+Webcam;2;3589.5
+Pen Drive;6;3952.45
+Headset;17;901.2
+Cabo HDMI;5;3631.37
+Teclado;14;3589.06
+Headset;8;3162.36
+Teclado;4;145.37
+Monitor;12;1321.56
+Teclado;17;3112.43
+Webcam;16;178.3
+HD Externo;7;2366.49
+Headset;1;1290.74
+Cabo HDMI;8;3621.84
+Webcam;20;2997.18
+Mouse;7;3224.45
+HD Externo;19;519.05
+Notebook;3;1548.47
+Cabo HDMI;18;51.81
+Headset;6;2083.83
+Teclado;12;696.42
+Monitor;6;3291.27
+Teclado;14;2905.21
+Notebook;11;501.36
+Monitor;20;2558.45
+HD Externo;12;2017.07
+Mouse;16;3561.76
+Notebook;15;3947.45
+Mouse;3;989.88
+Pen Drive;8;533.91
+Cabo HDMI;15;541.05
+Impressora;1;2798.49
+Impressora;11;810.2
+Mouse;15;2785.94
+Headset;6;1838.74
+Webcam;5;1574.55
+Mouse;1;1302.71
+Cabo HDMI;15;2393.7
+HD Externo;5;1282.3
+Pen Drive;8;766.32
+HD Externo;7;1614.41
+Notebook;11;3115.58
+Webcam;5;409.81
+Mouse;15;2206.38
+Teclado;6;1877.62
+Monitor;12;3701.77
+Monitor;4;1793.14
+Impressora;13;355.38
+Pen Drive;13;2431.28
+Teclado;4;1738.71
+Monitor;4;2609.18
+Pen Drive;13;2556.94
+Headset;3;3284.62
+Mouse;5;729.71
+Headset;18;3146.07
+Pen Drive;20;1183.89
+Headset;19;1124.64
+Mouse;1;2506.02
+Teclado;10;2059.37
+Pen Drive;5;3411.26
+Mouse;20;1477.48
+Webcam;15;782.83
+HD Externo;1;150.24
+Impressora;6;2890.79
+Pen Drive;16;731.98
+Teclado;10;2954.43
+Pen Drive;19;2453.19
+Webcam;20;3039.18
+Cabo HDMI;3;1921.56
+Cabo HDMI;14;1229.77
+Teclado;7;2979.98
+Monitor;9;3664.08
+Webcam;6;1485.73
+Monitor;15;641.62
+Monitor;14;3789.99
+Impressora;16;491.98
+Headset;6;1970.31
+HD Externo;11;621.75
+Notebook;19;999.75
+Headset;18;3621.75
+Impressora;12;2757.62
+Pen Drive;14;539.14
+Cabo HDMI;10;730.34
+Teclado;18;1111.96
+Mouse;19;3810.3
+Impressora;3;3724.63
+Pen Drive;10;3385.12
+Mouse;14;2667.71
+Impressora;5;2214.33
+Pen Drive;4;706.93
+Webcam;17;3598.16
+Pen Drive;17;1210.3
+Teclado;13;3428.08
+Teclado;7;3674.02
+Webcam;12;3700.95
+Notebook;19;1463.75
+HD Externo;19;1767.52
+Headset;17;1198.33
+Pen Drive;18;2288.59
+Webcam;10;1690.72
+Impressora;14;649.62
+Monitor;8;2661.94
+Cabo HDMI;18;1397.68
+Cabo HDMI;5;1262.42
+Monitor;13;1630.25
+HD Externo;1;1325.97
+Impressora;7;820.84
+Headset;7;2116.78
+Pen Drive;3;1727.99
+Pen Drive;4;1764.79
+Impressora;13;2470.91
+Headset;3;3831.01
+Impressora;20;812.16
+Webcam;11;385.39
+Teclado;12;2782.68
+Impressora;16;1537.24
+Mouse;9;3536.96
+Pen Drive;18;1283.76
+Pen Drive;19;3960.41
+Notebook;20;2388.86
+Teclado;3;1323.38
+Teclado;13;1710.22
+Monitor;1;1219.7
+Cabo HDMI;6;1169.39
+HD Externo;11;42.45
+Cabo HDMI;10;3973.8
+HD Externo;1;3093.8
+HD Externo;8;3935.25
+Teclado;9;1944.37
+Mouse;15;3451.52
+Webcam;20;2783.35
+Webcam;3;1235.42
+Pen Drive;12;1939.67
+Headset;6;3313.79
+Teclado;17;2502.96
+Cabo HDMI;7;2788.21
+Headset;17;3138.92
+Webcam;2;2553.45
+Pen Drive;8;2772.9
+Webcam;12;1971.77
+Teclado;7;1455.12
+Mouse;6;3343.82
+Webcam;7;3063.06
+Monitor;10;3579.31
+Cabo HDMI;13;3191.43
+HD Externo;9;1187.08
+HD Externo;7;1683.99
+Pen Drive;15;479.65
+Mouse;8;3400.8
+Teclado;8;3842.48
+Impressora;8;3365.34
+HD Externo;8;3106.35
+Teclado;15;3239.69
+Monitor;10;1071.3
+Notebook;10;499.59
+Webcam;8;3345.92
+Mouse;8;430.63
+Monitor;6;2933.43
+Teclado;19;1717.51
+Notebook;17;2097.62
+HD Externo;16;3638.21
+Cabo HDMI;14;2181.52
+Notebook;18;1524.36
+Notebook;17;1369.12
+Notebook;20;3413.91
+Pen Drive;2;1476.81
+Notebook;18;527.38
+Notebook;4;2007.46
+Headset;7;3112.01
+Impressora;17;466.01
+HD Externo;14;1051.77
+Cabo HDMI;13;2945.3
+HD Externo;20;2468.52
+Monitor;13;3711.2
+Cabo HDMI;3;2999.76
+Cabo HDMI;5;2026.57
+Cabo HDMI;12;553.51
+Cabo HDMI;9;3100.98
+Monitor;1;3101.19
+Teclado;20;3538.52
+Notebook;8;3980.75
+Pen Drive;10;3800.8
+Pen Drive;3;1886.73
+Monitor;13;2759.56
+Teclado;3;897.52
+Webcam;17;992.96
+Webcam;11;3855.24
+Cabo HDMI;2;2268.77
+Teclado;20;2463.45
+Notebook;18;471.3
+Monitor;14;548.76
+Notebook;9;1117.65
+Teclado;2;1175.74
+Mouse;1;2390.86
+Teclado;18;3190.95
+Mouse;13;1111.4
+Mouse;7;2682.81
+Impressora;13;103.19
+Mouse;1;3701.9
+Cabo HDMI;8;3849.79
+Monitor;5;2345.6
